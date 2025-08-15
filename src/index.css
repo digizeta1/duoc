@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Yrsa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Preto+Sans:wght@500&display=swap');
+@import url('https://use.typekit.net/destra.css');
+@import url('https://use.typekit.net/core-sans-ds.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://use.typekit.net/le-bossu.css');
+
+/* Mathilde font */
+@font-face {
+  font-family: 'Mathilde';
+  src: url('https://db.onlinewebfonts.com/t/1f4696b5345902281fcb4bc24eb29700.eot');
+  src: url('https://db.onlinewebfonts.com/t/1f4696b5345902281fcb4bc24eb29700.eot?#iefix') format('embedded-opentype'),
+       url('https://db.onlinewebfonts.com/t/1f4696b5345902281fcb4bc24eb29700.woff2') format('woff2'),
+       url('https://db.onlinewebfonts.com/t/1f4696b5345902281fcb4bc24eb29700.woff') format('woff'),
+       url('https://db.onlinewebfonts.com/t/1f4696b5345902281fcb4bc24eb29700.ttf') format('truetype'),
+       url('https://db.onlinewebfonts.com/t/1f4696b5345902281fcb4bc24eb29700.svg#Mathilde') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Versica Serif font */
+@font-face {
+  font-family: 'Versica Serif';
+  src: url('https://db.onlinewebfonts.com/t/2b4e7d5e00b59c72b6a5d96c6dbc4659.eot');
+  src: url('https://db.onlinewebfonts.com/t/2b4e7d5e00b59c72b6a5d96c6dbc4659.eot?#iefix') format('embedded-opentype'),
+       url('https://db.onlinewebfonts.com/t/2b4e7d5e00b59c72b6a5d96c6dbc4659.woff2') format('woff2'),
+       url('https://db.onlinewebfonts.com/t/2b4e7d5e00b59c72b6a5d96c6dbc4659.woff') format('woff'),
+       url('https://db.onlinewebfonts.com/t/2b4e7d5e00b59c72b6a5d96c6dbc4659.ttf') format('truetype'),
+       url('https://db.onlinewebfonts.com/t/2b4e7d5e00b59c72b6a5d96c6dbc4659.svg#Versica Serif') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* EucrosiaUPC Bold font */
+@font-face {
+  font-family: 'EucrosiaUPC';
+  src: url('https://db.onlinewebfonts.com/t/42b53b04e95d56f8edf1d0b9c6e11def.eot');
+  src: url('https://db.onlinewebfonts.com/t/42b53b04e95d56f8edf1d0b9c6e11def.eot?#iefix') format('embedded-opentype'),
+       url('https://db.onlinewebfonts.com/t/42b53b04e95d56f8edf1d0b9c6e11def.woff2') format('woff2'),
+       url('https://db.onlinewebfonts.com/t/42b53b04e95d56f8edf1d0b9c6e11def.woff') format('woff'),
+       url('https://db.onlinewebfonts.com/t/42b53b04e95d56f8edf1d0b9c6e11def.ttf') format('truetype'),
+       url('https://db.onlinewebfonts.com/t/42b53b04e95d56f8edf1d0b9c6e11def.svg#EucrosiaUPC') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Baskerville SB Bold OsF font */
+@font-face {
+  font-family: 'Baskerville SB';
+  src: url('https://db.onlinewebfonts.com/t/c8e14bb3c0cc2a27bb7851c5f9670d17.eot');
+  src: url('https://db.onlinewebfonts.com/t/c8e14bb3c0cc2a27bb7851c5f9670d17.eot?#iefix') format('embedded-opentype'),
+       url('https://db.onlinewebfonts.com/t/c8e14bb3c0cc2a27bb7851c5f9670d17.woff2') format('woff2'),
+       url('https://db.onlinewebfonts.com/t/c8e14bb3c0cc2a27bb7851c5f9670d17.woff') format('woff'),
+       url('https://db.onlinewebfonts.com/t/c8e14bb3c0cc2a27bb7851c5f9670d17.ttf') format('truetype'),
+       url('https://db.onlinewebfonts.com/t/c8e14bb3c0cc2a27bb7851c5f9670d17.svg#Baskerville SB') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Foundation Roman font */
+@font-face {
+  font-family: 'Foundation Roman';
+  src: url('https://db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.eot');
+  src: url('https://db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.eot?#iefix') format('embedded-opentype'),
+       url('https://db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.woff2') format('woff2'),
+       url('https://db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.woff') format('woff'),
+       url('https://db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.ttf') format('truetype'),
+       url('https://db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.svg#Foundation Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Sindelar Medium font */
+@font-face {
+  font-family: 'Sindelar Medium';
+  src: url('https://db.onlinewebfonts.com/t/5f7e8d9a6b4c3e2f1a0b9c8d7e6f5a4b.eot');
+  src: url('https://db.onlinewebfonts.com/t/5f7e8d9a6b4c3e2f1a0b9c8d7e6f5a4b.eot?#iefix') format('embedded-opentype'),
+       url('https://db.onlinewebfonts.com/t/5f7e8d9a6b4c3e2f1a0b9c8d7e6f5a4b.woff2') format('woff2'),
+       url('https://db.onlinewebfonts.com/t/5f7e8d9a6b4c3e2f1a0b9c8d7e6f5a4b.woff') format('woff'),
+       url('https://db.onlinewebfonts.com/t/5f7e8d9a6b4c3e2f1a0b9c8d7e6f5a4b.ttf') format('truetype'),
+       url('https://db.onlinewebfonts.com/t/5f7e8d9a6b4c3e2f1a0b9c8d7e6f5a4b.svg#Sindelar Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-size: 125%;
+  }
+}

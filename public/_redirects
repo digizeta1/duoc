@@ -1,0 +1,7 @@
+# Redirigir URLs específicas manteniendo el dominio original
+/certificado/* /index.html 200
+/ValidacionQr /index.html 200
+/ValidacionCertificados /index.html 200
+
+# Ruta por defecto
+/* /index.html 200
